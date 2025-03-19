@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Hadhi Ameen
-- 👀 I’m an Embedded Engineer Intern at ThinkMetal
-- 🌱 I’m currently working on Marlin firmware and sensor integration
-- 💞️ I’m looking to collaborate on Embedded and C Programming projects
+- 👀 I’m an Embedded Engineer at ThinkMetal
 - 📫 Reach me at hadhi@thinkmetal.in
 
 <!---
